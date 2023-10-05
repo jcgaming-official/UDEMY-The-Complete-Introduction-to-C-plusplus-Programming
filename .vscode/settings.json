@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "/workspaces/UDEMY-The-Complete-Introduction-to-C-plusplus-Programming"
+    "cmake.sourceDirectory": "/workspaces/UDEMY-The-Complete-Introduction-to-C-plusplus-Programming",
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
