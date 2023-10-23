@@ -1,0 +1,9 @@
+//The basics of IF function
+
+If, Else and Else if
+
+If is the when the condition is true, the code will be executed.
+
+Else is if the statement is false then the last condition code will executed.
+
+Else if is the when first or all following condition is false, this statement will executed

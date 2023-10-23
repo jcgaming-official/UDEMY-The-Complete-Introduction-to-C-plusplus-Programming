@@ -1,0 +1,23 @@
+//Understanding the various c++ operators
+C++ Comparing Operator:
+
+== is equal to
+
+!= is not equal to
+
+> is greater than
+
+< is smaller than
+
+>= greater than or equal to
+
+<= smaller than or equal to
+
+
+C++ Logical Operator:
+
+a==b && a<5 : Return true if the two conditions are meet
+
+a<b || a<c : return true if one of them conditions are meet
+
+!(a<b) : return false if the result is true and return true if the result is false.
